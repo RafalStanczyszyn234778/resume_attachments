@@ -28,7 +28,7 @@ The demo shows how a user can paste a video link, choose a timeframe and model, 
 
 
 ## Demo
-**YouTube demo:** `[https://www.youtube.com/watch?v=PAUj3tKDWq4&feature=youtu.be]`
+[**YouTube demo**]`(https://www.youtube.com/watch?v=PAUj3tKDWq4&feature=youtu.be)`
 
 ---
 
