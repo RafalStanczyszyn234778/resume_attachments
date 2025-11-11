@@ -2,6 +2,8 @@
 
 A data-driven interactive dashboard exploring the relationship between wealth indicators and homicide rates across countries and regions. Inspired by United Nations 17 Sustainable Development Goals.
 
+[Open the Power BI report (interactive)](https://app.powerbi.com/view?r=eyJrIjoiNjk5OTBhN2UtNDlhYy00ZWRiLTlkZTEtNzYyZjU2ZTBmNjYwIiwidCI6IjBhMzM1ODliLTAwMzYtNGZlOC1hODI5LTNlZDA5MjZhZjg4NiIsImMiOjl9)
+
 ---
 
 ## Introduction
